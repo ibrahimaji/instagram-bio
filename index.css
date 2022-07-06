@@ -6,7 +6,7 @@ body, html {
 }
 
 body {
-  background: url(./images/bg01.jpg) no-repeat center center fixed;
+  background: url(./images/bromo.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -97,4 +97,8 @@ ul > li > a {
 a {
   color: black;
   text-decoration: none;
+}
+footer.animated {
+  font-size: 8px;
+
 }
